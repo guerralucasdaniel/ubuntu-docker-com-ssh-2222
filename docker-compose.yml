@@ -5,4 +5,4 @@ services:
             - '2222:22'
 
         container_name: ubuntu-com-ssh
-        image: ubuntu-com-ssh
+        image: danielguerras/ubuntu-com-ssh
